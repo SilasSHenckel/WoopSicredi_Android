@@ -1,7 +1,7 @@
 <resources>
 
     <string name="app_name">Teste Sicredi</string>
-    <string name="events_activity_label">Eventos</string>
+    <string name="events_activity_label">Woop Sicredi</string>
     <string name="event_details_activity_label">Evento</string>
     <string name="no_events">Não há eventos disponiveis</string>
     <string name="shows">Atrações</string>
