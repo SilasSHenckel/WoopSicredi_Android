@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Teste Sicredi</string>
+    <string name="events_activity_label">Eventos</string>
+    <string name="event_details_activity_label">Evento</string>
+    <string name="no_events">Não há eventos disponiveis</string>
+    <string name="shows">Atrações</string>
+    <string name="no_shows">Não há atrações para este evento.</string>
+    <string name="name">Nome</string>
+    <string name="name_hint">Nome</string>
+    <string name="email_hint">Email</string>
+    <string name="email">Email</string>
+    <string name="check_in">Efetuar check-in</string>
+    <string name="check_in_dialog_fragment">Check-in</string>
+
+</resources>
